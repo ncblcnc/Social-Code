@@ -3,7 +3,7 @@
 
 Files for headgear 3D printing and visualisation contained in the manuscript:
 
-Emanuel Ferreira-Fernandes, Mariana Laranjo, Tiago Reis, Bárbara Canijo, Pedro A. Ferreira, Pedro Martins, João Vilarinho, Mahmoud Tavakoli, Ana C. B. Kunicki, João Peça In vivo recordings in freely behaving mice using independent silicon probes targeting multiple brain regions
+Ferreira-Fernandes, E., Laranjo, M., Reis, T., Canijo, B., Ferreira, P. A., Martins, P., Vilarinho, J., Tavakoli, M., Kunicki, C., & Peça, J. (2023). In vivo recordings in freely behaving mice using independent silicon probes targeting multiple brain regions. https://doi.org/10.3389/fncir.2023.1293620
 
 The base file is a modification of those described in:
 https://github.com/buzsakilab/3d_print_designs
