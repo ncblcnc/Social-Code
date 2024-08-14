@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/709427823.svg)](https://zenodo.org/doi/10.5281/zenodo.13316202)
 
-[![DOI:10.1101/2020.03.02.973073](http://img.shields.io/badge/DOI-10.1101/2020.03.02.973073-B31B1B.svg)](https://doi.org/10.1101/2020.03.02.973073)
+[![DOI:10.3389/fncir.2023.1293620](http://img.shields.io/badge/DOI-10.3389/fncir.2023.1293620-B31B1B.svg)](https://doi.org/10.3389/fncir.2023.1293620)
 
 # Social-Code
 
