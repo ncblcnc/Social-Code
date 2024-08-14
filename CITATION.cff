@@ -1,0 +1,57 @@
+cff-version: 1.2.0
+message: If you use this software, please cite both the article from preferred-citation and the software itself.
+authors:
+  - family-names: Ferreira-Fernandes
+    given-names: Emanuel
+  - family-names: Laranjo
+    given-names: Mariana
+  - family-names: Reis
+    given-names: Tiago
+  - family-names: Canijo
+    given-names: Bárbara
+  - family-names: Ferreira
+    given-names: Pedro A.
+  - family-names: Martins
+    given-names: Pedro
+  - family-names: Vilarinho
+    given-names: João
+  - family-names: Tavakoli
+    given-names: Mahmoud
+  - family-names: Kunicki
+    given-names: Carolina
+  - family-names: Peça
+    given-names: João
+title: In vivo recordings in freely behaving mice using independent silicon probes targeting multiple brain regions
+version: 1.0.0
+url: https://www.frontiersin.org/journals/neural-circuits/articles/10.3389/fncir.2023.1293620
+doi: 10.3389/fncir.2023.1293620
+date-released: '2023-08-14'
+preferred-citation:
+  authors:
+    - family-names: Ferreira-Fernandes
+      given-names: Emanuel
+    - family-names: Laranjo
+      given-names: Mariana
+    - family-names: Reis
+      given-names: Tiago
+    - family-names: Canijo
+      given-names: Bárbara
+    - family-names: Ferreira
+      given-names: Pedro A.
+    - family-names: Martins
+      given-names: Pedro
+    - family-names: Vilarinho
+      given-names: João
+    - family-names: Tavakoli
+      given-names: Mahmoud
+    - family-names: Kunicki
+      given-names: Carolina
+    - family-names: Peça
+      given-names: João
+  title: In vivo recordings in freely behaving mice using independent silicon probes targeting multiple brain regions
+  doi: 10.3389/fncir.2023.1293620
+  url: https://www.frontiersin.org/journals/neural-circuits/articles/10.3389/fncir.2023.1293620
+  type: article-journal
+  year: '2023'
+  conference: {}
+  publisher: {}
